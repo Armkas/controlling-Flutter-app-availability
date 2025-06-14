@@ -1,4 +1,4 @@
 {
-  "enabled": false,
-  "msg": "主验证"
+  "enabled": true,
+  "msg": "main: all good"
 }
