@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "msg": "main: all good"
+  "enabled": false,
+  "msg": "sub"
 }
